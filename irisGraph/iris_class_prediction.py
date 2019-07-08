@@ -1,4 +1,4 @@
-#This program predics what type of flower it is based on the inputs and graphs the points.
+#This program predicts what type of flower based on an input and graphs the points.
 
 import numpy as np
 from sklearn.datasets import load_iris
